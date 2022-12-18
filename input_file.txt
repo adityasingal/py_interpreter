@@ -1,0 +1,8 @@
+x = 2
+y = x * 3
+z = y >= 2
+u = not z
+w = u and z
+m = y + x
+w = m / x
+x = 3 + y
